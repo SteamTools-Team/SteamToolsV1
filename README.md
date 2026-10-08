@@ -1,3 +1,3 @@
 # The first version of SteamTools APP
 
-[preview.png]
+![Preview](preview.png)
